@@ -20,7 +20,7 @@ The **Time Zone App** is a simple and interactive web application built using St
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/time-zone-app.git
+   git clone https://github.com/MuhammadAdnan1998/Building_Time_Zone_App_Using_Python.git
    cd time-zone-app
    ```
 2. Create a virtual environment and activate it:
@@ -49,5 +49,5 @@ If you would like to contribute, feel free to fork the repository and submit a p
 This project is licensed under the **MIT License**.
 
 ## Contact
-📩 For any questions or suggestions, feel free to reach out to **[Muhammad Adnan]** at **adnanshaikh84482@gmail.com**.
+📩 For any questions or suggestions, feel free to reach out to **Muhammad Adnan** at **adnanshaikh84482@gmail.com**.
 
